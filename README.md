@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h6 align="center">Hello, I'm Pico.<br>Enjoy my shit code.</h6>
 
 ###
