@@ -1,15 +1,32 @@
-<p align="center">Hello, I'm Pico.<br>Enjoy my shit code.</p>
+<p align="center">
+  <br>
+  <samp>
+    hi there! im<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.men.com/">pico</a></b>.
+    <br> Balkan Insurgent | Shitty Paster |#NOTAREALCODER<br>
 
-###
+</samp>
 
-<div align="center">
-  <img height="150" src="https://github.com/picogoat/picogoat/assets/143557025/252edd0f-974f-4670-8f9d-eb239177645e"  />
-</div>
+  <img src="https://static.wikia.nocookie.net/skul/images/4/4c/Grim_Reaper_Idle.gif/revision/latest?cb=20220803042344" width="200"/>
 
-###
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" height="40" alt="lua logo"  />
-</div>
 
-###
+<details align="center">
+
+<summary> <b> <samp> START DIE.EXE </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B U R I E D &nbsp; A L I V E !</h2> </b>
+
+<img src="https://thumbs.gfycat.com/AdmirableFlimsyDeermouse-size_restricted.gif" width="200"/>
+
+<p align="center">
+ &nbsp;
+ <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCuQyyIdVlFbdpTRj6S8q0nA">
+ <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://steamcommunity.com/groups/Tryhit-me">
+  <img src="https://www.freeiconspng.com/uploads/steam-icon-19.png" width="23px" alt="Secret"></a>
+   <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=PhillipThePaster" />
+
+</p> 
