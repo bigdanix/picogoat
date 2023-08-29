@@ -1,4 +1,5 @@
 Welcome to my Github. My name is Pico.
 Enjoy my shit code.
 
-(img align="right" alt="Coding" width="400" src="https://static.wikia.nocookie.net/skul/images/4/4c/Grim_Reaper_Idle.gif/revision/latest?cb=20220803042344")
+![gif](https://github.com/picogoat/picogoat/assets/143557025/252edd0f-974f-4670-8f9d-eb239177645e)
+
