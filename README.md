@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    hi there! im<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.men.com/">pico</a></b>.
+    hi there! im<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.men.com/"> pico</a></b>.
     <br> Balkan Insurgent | Shitty Paster |#NOTAREALCODER<br>
 
 </samp>
@@ -13,7 +13,7 @@
 
 <details align="center">
 
-<summary> <b> <samp> START DIE.EXE </samp></b></summary>
+<summary> <b> <samp> bet u wont click me! </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">B U R I E D &nbsp; A L I V E !</h2> </b>
 
