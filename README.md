@@ -1,4 +1,4 @@
-<sub align="center">Hello, I'm Pico.<br>Enjoy my shit code.</sub>
+<sub align="center">Hello, I'm Pico. Enjoy my shit code.</sub>
 
 ###
 
