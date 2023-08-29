@@ -2,7 +2,7 @@
   <br>
   <samp>
     hi there! im<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.men.com/"> pico</a></b>.
-    <br> Balkan Insurgent | Shitty Paster |#NOTAREALCODER<br>
+    <br> i literally am unable to code... | #pastergang<br>
 
 </samp>
 
