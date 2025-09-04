@@ -17,4 +17,4 @@
 <samp>
  <b><h2 style="color: #fc6203">E N T E R &nbsp; Y O U R &nbsp;   G R A V E !</h2> </b>
 
-<img src="https://github.com/bigdanix/bigdanix/assets/143557025/aea088b2-5e3b-49dd-9379-df1e2ccb022e" width="200"/>
+<img src="https://giphy.com/stickers/grave-Z5E4gRu8p2nK" width="200"/>
