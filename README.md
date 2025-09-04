@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    hi there! im<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.men.com/"> pico</a></b>.
-    <br> i literally am unable to code... | #pastergang<br>
+    hi there! im<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.men.com/"> big danix</a></b>.
+    <br> #67 #67 #67 #67 #67<br>
 
 </samp>
 
@@ -17,4 +17,4 @@
 <samp>
  <b><h2 style="color: #fc6203">E N T E R &nbsp; Y O U R &nbsp;   G R A V E !</h2> </b>
 
-<img src="https://github.com/picogoat/picogoat/assets/143557025/aea088b2-5e3b-49dd-9379-df1e2ccb022e" width="200"/>
+<img src="https://github.com/bigdanix/bigdanix/assets/143557025/aea088b2-5e3b-49dd-9379-df1e2ccb022e" width="200"/>
